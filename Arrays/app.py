@@ -10,3 +10,5 @@ print(data.append(4.5))
 print(data.insert(0,8))
 
 print(data)
+
+# This was arrays implementation
